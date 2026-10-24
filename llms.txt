@@ -1,0 +1,88 @@
+# 研發補助王
+
+> 本網站從補助王資料庫篩選 SBIR 與研發類政府補助，提供完整的 SBIR 申請流程說明，涵蓋先期研究、細部計畫等階段，並列示各階段的截止日時間軸；每筆補助資訊皆附有主辦機關與官方出處，協助使用者快速掌握相關資源。
+
+- 網址：https://web20.subsidyking.tw/
+- 主題：SBIR、地方型 SBIR 與企業研發補助
+- 收錄：66 筆（開放中 8 筆），更新 2026-10-24
+- 維護：仁禾管理顧問
+
+## 重要頁面
+- SBIR 申請指南：https://web20.subsidyking.tw/guide.html
+- 階段說明（先期研究／研究開發（細部計畫）／加值應用）：https://web20.subsidyking.tw/stages.html
+- 截止日時間軸：https://web20.subsidyking.tw/timeline.html
+- 常見問題：https://web20.subsidyking.tw/faq.html
+
+## 重點事實（115 年中央型 SBIR 個別申請）
+- Phase 1 先期研究：6 個月，每案 150 萬元
+- Phase 2 研究開發：以 2 年為限，每年 600 萬元、2 年最高 1,200 萬元
+- Phase 2+ 加值應用：以 1 年為限，每案 600 萬元
+- 出處：https://www.sbir.org.tw/sbir/info
+
+## 研發補助一覽
+- [開放中] 提升產業競爭力－研發轉型支持個案補助（經濟部產業發展署，截止 2026-11-30）：https://web20.subsidyking.tw/p/72.html
+- [開放中] 116年度推動客庄產業創新加值補助（客家委員會，截止 2026-11-30）：https://web20.subsidyking.tw/p/74.html
+- [開放中] 115年度花蓮縣農民團體辦理農產品加工研發計畫（花蓮縣政府農業處，截止 2026-11-30）：https://web20.subsidyking.tw/p/48673.html
+- [開放中] 116年度企業跨域研發補助（深科技驅動中小企業跨域創新計畫）（經濟部中小及新創企業署，截止 2026-12-07）：https://web20.subsidyking.tw/p/48682.html
+- [開放中] A+企業創新研發淬鍊計畫－稀土自主化關鍵製程、輔料耗材與新應用開發（經濟部產業技術司，截止 2027-12-31）：https://web20.subsidyking.tw/p/89.html
+- [開放中] 小型企業創新研發計畫（中央型SBIR）（經濟部中小及新創企業署，截止 隨時受理）：https://web20.subsidyking.tw/p/93.html
+- [開放中] 臺北市產業發展獎勵補助計畫（SITI，臺北市以此取代地方型SBIR）－創業/創新研發/創新加速/品牌建立等一般項目（臺北市政府產業發展局，截止 隨時受理）：https://web20.subsidyking.tw/p/95.html
+- [開放中] 產業升級創新平台輔導計畫（TIIP）－一般計畫（產業高值、創新優化、新興育成）（經濟部產業發展署，截止 隨時受理）：https://web20.subsidyking.tw/p/96.html
+- [常態性/依公告] 罕見疾病藥物供應製造及研究發展獎勵辦法（衛生福利部，截止 依公告）：https://web20.subsidyking.tw/p/165.html
+- [常態性/依公告] 藥物科技研究發展獎勵辦法（衛生福利部，截止 依公告）：https://web20.subsidyking.tw/p/167.html
+- [常態性/依公告] 放射性物料研究發展獎勵辦法（核能安全委員會，截止 依公告）：https://web20.subsidyking.tw/p/214.html
+- [常態性/依公告] 鼓勵民間參與省水技術研發獎勵辦法（經濟部，截止 依公告）：https://web20.subsidyking.tw/p/250.html
+- [常態性/依公告] 經濟部協助產業創新活動補助獎勵及輔導辦法（經濟部，截止 依公告）：https://web20.subsidyking.tw/p/268.html
+- [常態性/依公告] 農業部協助產業創新活動補助獎勵及輔導辦法（農業部，截止 依公告）：https://web20.subsidyking.tw/p/292.html
+- [常態性/依公告] 客家委員會推動客家產業創新補助辦法（客家委員會，截止 依公告）：https://web20.subsidyking.tw/p/327.html
+- [常態性/依公告] 國家通訊傳播委員會推動通訊傳播產業創新研究發展補助辦法（國家通訊傳播委員會，截止 依公告）：https://web20.subsidyking.tw/p/343.html
+- [常態性/依公告] 補助溫室氣體減量管理及氣候變遷調適研究發展計畫作業辦法（環境部，截止 依公告）：https://web20.subsidyking.tw/p/363.html
+- [常態性/依公告] 促進電信事業產業創新及研究發展輔導獎勵辦法（數位發展部，截止 依公告）：https://web20.subsidyking.tw/p/376.html
+- [常態性/依公告] 醫療器材創新科技研究發展獎勵辦法（衛生福利部，截止 依公告）：https://web20.subsidyking.tw/p/385.html
+- [常態性/依公告] 數位發展部協助產業創新活動補助獎勵及輔導辦法（數位發展部，截止 依公告）：https://web20.subsidyking.tw/p/401.html
+- [常態性/依公告] 再生醫療研究發展獎勵辦法（衛生福利部，截止 依公告）：https://web20.subsidyking.tw/p/416.html
+- [常態性/依公告] 客家委員會推動客庄產業創新加值補助作業要點（客家委員會，截止 依公告）：https://web20.subsidyking.tw/p/1249.html
+- [常態性/依公告] 農業科技園區促進園區事業研究發展補助要點（農業部，截止 依公告）：https://web20.subsidyking.tw/p/1259.html
+- [常態性/依公告] 行政院農業委員會研發成果管理運用獎獎勵作業要點（農業部，截止 依公告）：https://web20.subsidyking.tw/p/1341.html
+- [常態性/依公告] 農民組織及農企業產銷經營及研發創新貸款要點（農業部，截止 依公告）：https://web20.subsidyking.tw/p/1367.html
+- [常態性/依公告] 新竹市政府自行研究發展案件評審及獎勵作業要點（新竹市政府，截止 依公告）：https://web20.subsidyking.tw/p/1481.html
+- [常態性/依公告] 環境部補助廢污水處理技術創新及研究發展計畫作業要點（環境部，截止 依公告）：https://web20.subsidyking.tw/p/1595.html
+- [常態性/依公告] 環境部資源循環署補助資源循環創新及研究發展計畫作業要點（環境部資源循環署，截止 依公告）：https://web20.subsidyking.tw/p/1598.html
+- [常態性/依公告] 促進產業創新或研究發展貸款要點（經濟部，截止 依公告）：https://web20.subsidyking.tw/p/1788.html
+- [常態性/依公告] 石油基金獎勵石油開發技術研究發展計畫申請作業要點（經濟部，截止 依公告）：https://web20.subsidyking.tw/p/1807.html
+- [常態性/依公告] 國家科學及技術委員會獎勵科技行政研究發展作業要點（國家科學及技術委員會，截止 依公告）：https://web20.subsidyking.tw/p/1847.html
+- [常態性/依公告] 行政院國家科學委員會補助提升私立大學校院研發能量專案計畫作業要點（國家科學及技術委員會，截止 依公告）：https://web20.subsidyking.tw/p/1851.html
+- [常態性/依公告] 國家科學及技術委員會中部科學園區管理局研發補助計畫支用單據控管機制（國家科學及技術委員會中部科學園區管理局，截止 依公告）：https://web20.subsidyking.tw/p/1898.html
+- [常態性/依公告] 國家科學及技術委員會中部科學園區管理局研發創新獎勵作業要點（國家科學及技術委員會中部科學園區管理局，截止 依公告）：https://web20.subsidyking.tw/p/1900.html
+- [常態性/依公告] 國家科學及技術委員會新竹科學園區管理局補助科技研發計畫實施要點（國家科學及技術委員會新竹科學園區管理局，截止 依公告）：https://web20.subsidyking.tw/p/1902.html
+- [常態性/依公告] 臺中市智慧機械軟體與AI軟體研發補助計畫（臺中市政府經濟發展局，截止 依公告）：https://web20.subsidyking.tw/p/1930.html
+- [常態性/依公告] 臺北市產業發展研發補助申請須知（臺北市政府，截止 依公告）：https://web20.subsidyking.tw/p/2448.html
+- [常態性/依公告] 臺北市政府衛生局統籌款研究發展獎勵要點（臺北市政府衛生局，截止 依公告）：https://web20.subsidyking.tw/p/2677.html
+- [常態性/依公告] 花蓮縣地方產業創新研發推動計畫(地方型SBIR)補助作業要點（花蓮縣政府，截止 依公告）：https://web20.subsidyking.tw/p/48571.html
+- [已截止] 115年度SIIR服務業創新研發計畫（經濟部商業發展署，截止 2026-01-30）：https://web20.subsidyking.tw/p/1.html
+- [已截止] 115年度協助傳統產業技術開發計畫（CITD）（經濟部產業發展署，截止 2026-02-09）：https://web20.subsidyking.tw/p/2.html
+- [已截止] 115年度臺東縣地方型SBIR（地方產業創新研發推動計畫）（臺東縣政府，截止 2026-03-31）：https://web20.subsidyking.tw/p/3.html
+- [已截止] 115年度連江縣地方型SBIR（地方產業創新研發推動計畫）（連江縣政府產業發展處，截止 2026-04-23）：https://web20.subsidyking.tw/p/4.html
+- [已截止] 115年度彰化縣地方型SBIR（地方產業創新研發推動計畫）（彰化縣政府經濟暨綠能發展處，截止 2026-04-30）：https://web20.subsidyking.tw/p/5.html
+- [已截止] 115年度雲林縣地方型SBIR（地方產業創新研發推動計畫）（雲林縣政府建設處，截止 2026-05-05）：https://web20.subsidyking.tw/p/6.html
+- [已截止] 115年度臺南市地方型SBIR（地方產業創新研發推動計畫）（臺南市政府經濟發展局，截止 2026-05-05）：https://web20.subsidyking.tw/p/7.html
+- [已截止] 115年度基隆市地方型SBIR（地方產業創新研發推動計畫）（基隆市政府產業發展處，截止 2026-05-15）：https://web20.subsidyking.tw/p/8.html
+- [已截止] 115年度南投縣地方型SBIR（地方產業創新研發推動計畫）（南投縣政府建設處，截止 2026-05-15）：https://web20.subsidyking.tw/p/9.html
+- [已截止] 115年度宜蘭縣地方型SBIR（地方產業創新研發推動計畫）（宜蘭縣政府工商旅遊處，截止 2026-05-15）：https://web20.subsidyking.tw/p/10.html
+- [已截止] 115年度金門縣地方型SBIR（地方產業創新研發推動計畫）（金門縣政府產業發展處，截止 2026-05-15）：https://web20.subsidyking.tw/p/11.html
+- [已截止] 115年度花蓮縣地方型SBIR（地方產業創新研發推動計畫）（花蓮縣政府，截止 2026-05-29）：https://web20.subsidyking.tw/p/12.html
+- [已截止] 115年度桃園市地方型SBIR（地方產業創新研發推動計畫）（桃園市政府經濟發展局，截止 2026-06-01）：https://web20.subsidyking.tw/p/13.html
+- [已截止] 115年度苗栗縣地方型SBIR（地方產業創新研發推動計畫）（苗栗縣政府工商發展處，截止 2026-06-10）：https://web20.subsidyking.tw/p/14.html
+- [已截止] 115年度嘉義市地方型SBIR（地方產業創新研發推動計畫）（嘉義市政府建設處，截止 2026-06-12）：https://web20.subsidyking.tw/p/15.html
+- [已截止] 115年度高雄市地方型SBIR（地方產業創新研發推動計畫）（高雄市政府經濟發展局，截止 2026-06-17）：https://web20.subsidyking.tw/p/16.html
+- [已截止] 115年度新竹市地方型SBIR（地方產業創新研發推動計畫）（新竹市政府產業發展處，截止 2026-06-22）：https://web20.subsidyking.tw/p/17.html
+- [已截止] 115年度臺中市地方型SBIR（地方產業創新研發推動計畫）（臺中市政府經濟發展局，截止 2026-06-26）：https://web20.subsidyking.tw/p/18.html
+- [已截止] 臺北市產業發展獎勵補助計畫（SITI）－主題式研發（115年第1次：淨零科技）（臺北市政府產業發展局，截止 2026-06-30）：https://web20.subsidyking.tw/p/19.html
+- [已截止] 115年度新竹縣地方型SBIR（地方產業創新研發推動計畫）（新竹縣政府產業發展處，截止 2026-07-01）：https://web20.subsidyking.tw/p/20.html
+- [已截止] 115年度嘉義縣地方型SBIR（地方產業創新研發推動計畫）（嘉義縣政府經濟發展處，截止 2026-07-10）：https://web20.subsidyking.tw/p/21.html
+- [已截止] 115年度澎湖縣地方型SBIR（地方產業創新研發推動計畫）（澎湖縣政府，截止 2026-07-16）：https://web20.subsidyking.tw/p/23.html
+- [已截止] 115年度屏東縣地方型SBIR（地方產業創新研發推動計畫）（屏東縣政府城鄉發展處，截止 2026-07-17）：https://web20.subsidyking.tw/p/24.html
+- [已截止] 115年AI創新服務研發補助計畫（DIGITAL+主題型）（數位發展部數位產業署，截止 2026-07-24）：https://web20.subsidyking.tw/p/26.html
+- [已截止] 115年後量子資安解決方案研發驗證補助計畫（DIGITAL+主題型）（數位發展部數位產業署，截止 2026-08-10）：https://web20.subsidyking.tw/p/28.html
+- [已截止] 116年度補助資源循環創新及研究發展計畫（環境部，截止 2026-10-12）：https://web20.subsidyking.tw/p/31.html
+- [已截止] 花蓮縣畜產品加工產品研發及行銷活動補助（花蓮縣政府，截止 2026-10-23）：https://web20.subsidyking.tw/p/48694.html
